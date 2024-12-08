@@ -1,0 +1,50 @@
+.form-label {
+    color: #fff;
+  }
+  .chat-container{
+    background-color: #0A0D18;
+  }
+  .form{
+    height: 80vh;
+    border: 5px solid #13182C;
+  }
+  .chat-header{
+    background-color: #14151B;
+    
+  }
+  .form-control{
+    background-color: transparent;
+    border: none;
+  }
+  .chat-footer{
+    background-color: #14151B;
+  }
+  .chat-header .userInfo img{
+    width: 30px;
+    height: 30px;
+    border-radius: 50%;
+  }
+  .message-right {
+    text-align: right;
+    background-color: #d1ffd1;
+    margin-left: auto;
+    margin-right: 0;
+    padding: 10px;
+    border-radius: 10px;
+    max-width: 60%;
+  }
+  
+  .message-left {
+    text-align: left;
+    background-color: #f1f1f1;
+    margin-right: auto;
+    margin-left: 0;
+    padding: 10px;
+    border-radius: 10px;
+    max-width: 60%;
+  }
+  
+  .chat-body div {
+    margin-bottom: 10px;
+  }
+  

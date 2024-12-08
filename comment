@@ -1,0 +1,7 @@
+//how to create server
+
+1- create server folder
+2- cd server
+3- npm init -y
+4- npm install express
+5- create server.js file
